@@ -1,0 +1,54 @@
+[
+  {
+    "profile": {
+      "name": "Nguyen Van A",
+      "maBHXH": "123456789",
+      "dayOfBirth": "01/01/1996",
+      "cccdNumber": "123456789",
+      "phoneNumber": "0987654321",
+      "address": "123 ABC Street, XYZ City"
+    },
+    "totalTimeBHXH": "10",
+    "listBHXH": [
+      {
+        "startDay": "01/01/2014",
+        "endDay": "01/01/2023",
+        "company": "ABC Corporation",
+        "position": "Software Engineer"
+      },
+      {
+        "startDay": "01/01/2013",
+        "endDay": "01/01/2018",
+        "company": "XYZ Inc",
+        "position": "Senior Software Engineer"
+      }
+    ],
+    "avatar": "path/to/avatar_a.jpg" 
+  },
+  {
+    "profile": {
+      "name": "Tran Thi B",
+      "maBHXH": "987654321",
+      "dayOfBirth": "01/08/1997",
+      "cccdNumber": "987654321",
+      "phoneNumber": "0123456789",
+      "address": "456 XYZ Avenue, ABC City"
+    },
+    "totalTimeBHXH": "8 years",
+    "listBHXH": [
+      {
+        "startDay": "01/01/2017",
+        "endDay": "01/01/2023",
+        "company": "DEF Ltd",
+        "position": "Product Manager"
+      },
+      {
+        "startDay": "20/01/2017",
+        "endDay": "01/01/20020",
+        "company": "GHI Corporation",
+        "position": "Senior Product Manager"
+      }
+    ],
+    "avatar": "path/to/avatar_b.jpg"
+  }
+]
